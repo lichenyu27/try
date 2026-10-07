@@ -1,0 +1,23 @@
+{
+  "title": "判断题集（真题库·纯判断）",
+  "questions": [
+    {
+      "type": "boolean",
+      "question": "地球是平的。",
+      "answer": false,
+      "explanation": "地球近似椭球体，不是平的。"
+    },
+    {
+      "type": "boolean",
+      "question": "标准大气压下纯水 100℃ 沸腾。",
+      "answer": true,
+      "explanation": "在标准大气压（101.325 kPa）下，水的沸点是 100℃。"
+    },
+    {
+      "type": "boolean",
+      "question": "太阳从西边升起。",
+      "answer": false,
+      "explanation": "由于地球自西向东自转，太阳从东方升起。"
+    }
+  ]
+}
