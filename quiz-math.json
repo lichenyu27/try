@@ -1,0 +1,32 @@
+{
+  "title": "数学小测（真题库）",
+  "questions": [
+    {
+      "type": "single",
+      "question": "1 + 1 等于？",
+      "options": ["1", "2", "3", "4"],
+      "answer": 1,
+      "explanation": "基础加法，1+1=2。"
+    },
+    {
+      "type": "multiple",
+      "question": "以下哪些是偶数？",
+      "options": ["2", "3", "4", "5"],
+      "answer": [0, 2],
+      "explanation": "2 和 4 能被 2 整除，是偶数。"
+    },
+    {
+      "type": "boolean",
+      "question": "0 是偶数。",
+      "answer": true,
+      "explanation": "0 能被 2 整除，属于偶数。"
+    },
+    {
+      "type": "single",
+      "question": "圆的面积公式是？",
+      "options": ["πr²", "2πr", "πd", "2πr²"],
+      "answer": 0,
+      "explanation": "圆面积 S = πr²。"
+    }
+  ]
+}
