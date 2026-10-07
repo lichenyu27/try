@@ -1,0 +1,25 @@
+{
+  "title": "地理小测（真题库）",
+  "questions": [
+    {
+      "type": "single",
+      "question": "中国的首都是？",
+      "options": ["上海", "北京", "广州", "深圳"],
+      "answer": 1,
+      "explanation": "北京是中华人民共和国首都。"
+    },
+    {
+      "type": "boolean",
+      "question": "长江是中国最长的河流。",
+      "answer": true,
+      "explanation": "长江全长约 6300 公里，是中国第一长河。"
+    },
+    {
+      "type": "multiple",
+      "question": "以下哪些国家位于亚洲？",
+      "options": ["中国", "法国", "日本", "巴西"],
+      "answer": [0, 2],
+      "explanation": "中国和日本在亚洲；法国在欧洲，巴西在南美洲。"
+    }
+  ]
+}
